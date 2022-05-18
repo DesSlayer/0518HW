@@ -1,0 +1,6 @@
+make.exe --dry-run --always-make --keep-going --print-directory
+make.exe: Entering directory 'c:/Users/DesSlayer/Documents/�Ʀ��޿�]�p���/HW6(0517)'
+make.exe: Leaving directory 'c:/Users/DesSlayer/Documents/�Ʀ��޿�]�p���/HW6(0517)'
+ 
+makefile:10: *** missing separator.  Stop.
+
